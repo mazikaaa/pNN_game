@@ -25,3 +25,16 @@ pNN50については簡単に言うと、**0~1までの値で値が小さいほ�
 ![pNN_ピンチ](https://user-images.githubusercontent.com/45326553/106464624-39c92b80-64dc-11eb-9ff4-c1094aa0a99e.jpg)
 ![pNN_平常](https://user-images.githubusercontent.com/45326553/106464626-3afa5880-64dc-11eb-9b48-182e3d4c4718.jpg)
 ![pNN_リラックス](https://user-images.githubusercontent.com/45326553/106464628-3afa5880-64dc-11eb-948b-48375228003d.jpg)
+
+ ##### 作成時間
+ 15~20時間
+ 
+ ##### 作成人数
+ １人
+
+  ##### 開発環境
+  ・Unity(2019.1.14f)  
+
+## ソースコードについて
+以下のURLより見ることが出来ます。  
+https://github.com/mazikaaa/spander/tree/master/spander/Assets/Script
