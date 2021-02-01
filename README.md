@@ -19,9 +19,9 @@ pNN50については簡単に言うと、**心拍の揺らぎの大きさの指�
 
 ##### 使用した機器  
 心拍センサー……[Pulse sensor](https://www.amazon.co.jp/KOZEEY-STK0151000071-%E5%BF%83%E6%8B%8D-%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88-%E5%BF%83%E6%8B%8D%E6%95%B0%E3%82%92%E3%83%86%E3%82%B9%E3%83%88-%E8%84%88%E6%8B%8D%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-%E3%83%91%E3%83%AB%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB-3-3V%E3%80%9C5V/dp/B01CFGOZM0/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Pulse+sensor&qid=1612186876&sr=8-1)  
-![Pulus Monitor](https://user-images.githubusercontent.com/45326553/106469697-f8884a00-64e2-11eb-8054-6f86835a699b.png)
+![Pulus Monitor](https://user-images.githubusercontent.com/45326553/106469697-f8884a00-64e2-11eb-8054-6f86835a699b.png)　　
 マイコンボード……[Aruduino Uno R3](https://www.amazon.co.jp/ELEGOO-ATmega328P-ATMEGA16U2-USB%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-Arduino%E7%94%A8/dp/B06Y5TBNQX/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=arudino+uno+R3&qid=1612178401&sr=8-5)　　
-![Arudino](https://user-images.githubusercontent.com/45326553/106469692-f7571d00-64e2-11eb-8709-6d9af85febf4.png)
+![Arudino](https://user-images.githubusercontent.com/45326553/106469692-f7571d00-64e2-11eb-8709-6d9af85febf4.png)　　
 
 
 ##### ゲームをやる時の画像
