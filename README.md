@@ -37,4 +37,4 @@ pNN50については簡単に言うと、**0~1までの値で値が小さいほ�
 
 ## ソースコードについて
 以下のURLより見ることが出来ます。  
-https://github.com/mazikaaa/spander/tree/master/spander/Assets/Script
+https://github.com/mazikaaa/pNN_game/tree/master/Assets/Script
